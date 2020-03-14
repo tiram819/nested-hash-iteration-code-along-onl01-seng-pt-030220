@@ -26,7 +26,7 @@ def remove_strawberry(contacts)
       name: "Freddy",
       email: "freddy@mercury.com",
       favorite_ice_cream_flavors:
-      ["cookie dough", "mint chip"]
+      ["strawberry""cookie dough", "mint chip"]
     }
     }
   }
